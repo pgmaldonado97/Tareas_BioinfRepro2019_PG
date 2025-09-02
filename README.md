@@ -1,0 +1,2 @@
+# Tareas_BioinfRepro2019_PG
+This repository contains my assignments and exercises for the Bioinformatics and Research Project course at the University of Chile. Each unit includes Markdown files with code, results, and explanations as part of my PhD training in Biomedical Sciences.
