@@ -72,7 +72,7 @@ Recuerda que `tetha = 4 * Ne * u`.
 
 El código implementado y su resultado se muestran en la **Figura 4**.
 
-![Figura 4: Función calc.tetha](ejercicio_sources_1_Tarea_1.3)
+![Figura 4: Función calc.tetha](ejercicio_sources_1_Tarea_1.3.png)
 
 ---
 
